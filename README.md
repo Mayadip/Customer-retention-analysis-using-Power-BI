@@ -1,7 +1,7 @@
 # Customer-retention-analysis-using-Power-BI
 Created a dashboard using the defined KPIs to reflect customer demographics and insights of a telecom company to identify customer who may churn.
 
-# Analyzed the following factors:
+## Analyzed the following factors:
 
 • Customers who left within the last month
 
