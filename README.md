@@ -15,5 +15,7 @@ and number of tickets opened in the categories administrative and technical
 
 <img width="625" height="373" alt="image" src="https://github.com/user-attachments/assets/6c74326f-2006-48d2-8a3f-1e2b8721be3a" />
 
+
+
 <img width="638" height="370" alt="image" src="https://github.com/user-attachments/assets/21099d01-a6a1-46ed-b563-4a9cb0abe177" />
 
